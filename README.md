@@ -4,7 +4,7 @@ CALCULATOR
 
 # Modern Neumorphic Calculator
 
-A sleek, responsive calculator web application built using **HTML5**, **CSS3**, and **Vanilla JavaScript**. This project features a modern **Neumorphic design** (soft UI) with interactive hover effects and core mathematical functionality.[cite: 1, 2]
+A sleek, responsive calculator web application built using **HTML5**, **CSS3**, and **Vanilla JavaScript**. This project features a modern **Neumorphic design** (soft UI) with interactive hover effects and core mathematical functionality.
 
 ---
 
@@ -16,18 +16,18 @@ A sleek, responsive calculator web application built using **HTML5**, **CSS3**, 
 
 ##  Features
 
-*   **Neumorphic UI:** Soft shadows and a dark-themed interface for a modern aesthetic.[cite: 2]
-*   **Core Arithmetic:** Supports addition, subtraction, multiplication, and division.[cite: 2]
-*   **Real-time Display:** Dynamic input display for numbers and operators.[cite: 2]
+*   **Neumorphic UI:** Soft shadows and a dark-themed interface for a modern aesthetic.
+*   **Core Arithmetic:** Supports addition, subtraction, multiplication, and division
+*   **Real-time Display:** Dynamic input display for numbers and operators.
 *   **Special Functions:** Includes an "AC" (All Clear) button and a "DEL" (Delete) button for character-by-character correction.
-*   **Responsive Interaction:** Inset shadow effects on button hover for a tactile feel.[cite: 2]
+*   **Responsive Interaction:** Inset shadow effects on button hover for a tactile feel.
 
 ---
 
 ##  Built With
 
-*   **HTML5:** Structured the calculator layout using semantic elements and a form-based input system.[cite: 2]
-*   **CSS3:** Styled with Flexbox for centering and custom box-shadows to achieve the Neumorphic look.[cite: 2]
+*   **HTML5:** Structured the calculator layout using semantic elements and a form-based input system.
+*   **CSS3:** Styled with Flexbox for centering and custom box-shadows to achieve the Neumorphic look.
 *   **JavaScript:** Implemented logic using the `eval()` function for quick calculations and DOM manipulation via `onclick` events.
 
 
