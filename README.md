@@ -2,8 +2,6 @@
 
 CALCULATOR
 
-## 📝 Usage Note
-
 # Modern Neumorphic Calculator
 
 A sleek, responsive calculator web application built using **HTML5**, **CSS3**, and **Vanilla JavaScript**. This project features a modern **Neumorphic design** (soft UI) with interactive hover effects and core mathematical functionality.[cite: 1, 2]
@@ -12,10 +10,11 @@ A sleek, responsive calculator web application built using **HTML5**, **CSS3**, 
 
 ## Calculator Preview
 
-![Calculator Preview](your-image-link-here)
+![Calculator Preview](calcus.png)
 
 
-## 🚀 Features
+
+##  Features
 
 *   **Neumorphic UI:** Soft shadows and a dark-themed interface for a modern aesthetic.[cite: 2]
 *   **Core Arithmetic:** Supports addition, subtraction, multiplication, and division.[cite: 2]
@@ -25,7 +24,7 @@ A sleek, responsive calculator web application built using **HTML5**, **CSS3**, 
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 *   **HTML5:** Structured the calculator layout using semantic elements and a form-based input system.[cite: 2]
 *   **CSS3:** Styled with Flexbox for centering and custom box-shadows to achieve the Neumorphic look.[cite: 2]
@@ -34,7 +33,7 @@ A sleek, responsive calculator web application built using **HTML5**, **CSS3**, 
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 ```text
 ├── index.html   # Markup and inline JS logic
 ├── style.css    # Custom Neumorphic styling
